@@ -1,0 +1,27 @@
+
+.aboutback{
+    background-color:rgb(255, 255, 255);
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+#profile{
+    display:inline-table;
+    padding-top: 10px;
+    padding-left: 25px;
+
+}
+
+.AboutPara{
+    font-family:inherit;
+    padding-right: 20px;
+    padding-bottom: 2px;
+
+}
+#displayimg{
+    padding-left: 25px;
+
+    display: inline;
+}
+#aboutMe{
+margin-top: 100px;
+}
